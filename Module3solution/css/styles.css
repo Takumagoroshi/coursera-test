@@ -29,8 +29,8 @@ h1 {
 
 }
 
-
 #nav-list {
+	
 	padding: 0px;
 
 	border:2px solid white;
@@ -108,5 +108,8 @@ li:hover {
 }
 /********** extra small devices only **********/
 @media (max-width: 767px) {
-
+.section {
+	margin: 0px 10% 10%;
 }
+
+
